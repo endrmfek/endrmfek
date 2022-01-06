@@ -1,4 +1,6 @@
-### Hi there i'm minsoo👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=MINSOO%20KANG&fontSize=60&fontAlignY=40&desc=Web%20Developer)
+
+<h3 align="center">Becomming a developer:smile:</h#>
 
 <!--
 **endrmfek/endrmfek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
