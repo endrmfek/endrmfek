@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=MINSOO%20KANG&fontSize=60&fontAlignY=40&desc=Web%20Developer)
-
-<h3 align="center">Becomming a developer:smile:</h#>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=MINSOO%20KANG&fontSize=80&fontAlignY=40&desc=Web%20Developer)
+<h2 align="center">:seedling:Becomming a developer:seedling:</h2>
 
 <!--
 **endrmfek/endrmfek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
