@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=MINSOO%20KANG&fontSize=80&fontAlignY=40&desc=Web%20Developer)
 <!-- <h2 align="center">:seedling:Becomming a developer:seedling:</h2> -->
 <p align="center">Hi there!:wave:<br> I want to be a developer who uses <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp<br><br></p> 
@@ -13,6 +15,8 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=alstn9469)](https://solved.ac/alstn9469)
+
+</div>
 
 <!--
 **endrmfek/endrmfek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
