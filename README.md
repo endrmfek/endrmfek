@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/alstn5927@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </p>
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=alstn9469)](https://solved.ac/alstn9469)
+<p align="center">
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=alstn9469)](https://solved.ac/alstn9469)
+</p>
 <!--
 **endrmfek/endrmfek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
